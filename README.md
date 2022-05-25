@@ -47,10 +47,3 @@ Im into Digital Marketing.But i have the passion of coding and help businesses s
 
 
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Sarah7799/ecommerce-sarah " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sarah7799&repo=ecommerce-sarah &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Sarah7799/mern-spotify" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sarah7799&repo=mern-spotify&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Sarah7799/mern-chatapps-backend " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sarah7799&repo=mern-chatapps-backend &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Sarah7799/Food-delivery-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sarah7799&repo=Food-delivery-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
