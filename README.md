@@ -4,11 +4,11 @@ Hi 👋 My name is Sarah Ruth
 Full Stack Web Developer
 ------------------------
 
-Im into Digital Marketing.But i have the passion of coding and help businesses showcase their full potential to the customer through software solutions, may that be a website and anything else. Also, I just love the process of software development, whereby you can take something from an idea to a real product that many can use.I realized, that what differences successful projects from failed projects is those things exactly. Building proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier.
+Initially from the starting of my carrer i have the passion of coding and help businesses showcase their full potential to the customer through software solutions, may that be a website and anything else. Also, I just love the process of software development, whereby you can take something from an idea to a real product that many can use.I realized, that what differences successful projects from failed projects is those things exactly. Building proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Sarah](https://sarahupdatedportfolio1.netlify.app/)
-* ✉️  You can contact me at [psarahruth@gmail.com](mailto:psarahruth@gmail.com)
+* ✉️  You can contact me at [yourssarah7799@gmail.com](mailto:yourssarah7799@gmail.com)
 * 🧠  I'm learning Advanced React Native
 * 🤝  I'm open to collaborating on Full Stack Web Developement
 
